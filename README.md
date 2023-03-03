@@ -3,5 +3,4 @@ Customer technical task was consisted of these main points:
   1) implement the main menu with 6 sections - catalog, bucket, orders, about, settings, support
   2) organise the database which will includes several tables: users, orders, products
   3) calculate cost of delivery relying on location and totoal cost of order
-  
 If you want to test the bot and get familiar with that product tap on [the link](https://t.me/PivoIDudki_bot) or find it in teltegram @PivoIDudki_bot
