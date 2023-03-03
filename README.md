@@ -4,4 +4,5 @@ Customer technical task was consisted of these main points:
   2) organise the database which will includes several tables: users, orders, products
   3) calculate cost of delivery relying on location and totoal cost of order
 
+The backend of the bot is writing with Java Spring Boot framework due to its suitable concept of architecture for restful standalone apps. At first, I've chosen MongoDB as the data base for this project, but later rewrite code for 
 ### If you want to test and get familiar with the bot tap on [the link](https://t.me/PivoIDudki_bot) or find it in telegram @PivoIDudki_bot
